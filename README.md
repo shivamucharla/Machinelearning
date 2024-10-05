@@ -11,7 +11,9 @@
 ## Dataset
 - **The dataset used in this project consists of:
 
-## Movie Ratings: User ratings of various movies.
+- ** budget	genres	homepage	id	keywords	original_language	original_title	overview	popularity	production_companies	runtime	spoken_languages	status	tagline	title	vote_average	vote_count	movie_id	cast	crew
+
+
 
 
 ## Installation
