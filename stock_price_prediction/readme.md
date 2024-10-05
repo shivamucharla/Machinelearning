@@ -78,7 +78,7 @@ while (i<30):
         i = i+1
 print(lst_output)
 
-## Installation
+7. Installation
 - **To run this project, you need to install the following Python packages:
 
 - **Tpip install pandas-datareader
@@ -87,13 +87,13 @@ print(lst_output)
 - **Tpip install scikit-learn
 - **Tpip install tensorflow
 
-## Usage
+8. Usage
 ### Clone the repository:
 
 git clone https://github.com/yourusername/stock-price-prediction.git
 cd stock-price-prediction
 
-License
+9. License
 - **This project is licensed under the MIT License. See the LICENSE file for more details.
 
 
