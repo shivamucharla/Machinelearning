@@ -19,9 +19,16 @@ This project utilizes historical stock price data to train an LSTM model, which 
 ## Data Collection
 Data is collected from Tiingo using the following code:
 
-https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
-
 ```python
+!pip install pandas-datareader
+
+import pandas_datareader as pdr
+
+# Replace with your actual API key
+df = pdr.get_data_tiingo('AAPL', api_key='YOUR_API_KEY')
+df.to_csv('AAPL.csv')
+
+
 
 ## Data Preprocessing
 - **The collected data is preprocessed by:
