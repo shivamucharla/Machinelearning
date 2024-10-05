@@ -9,7 +9,8 @@
 5. Results
 6. Model Persistence
 7. License
-8. Installation
+
+# 1. Installation
 To run this project, you'll need to install the following Python packages:
 
 bash
